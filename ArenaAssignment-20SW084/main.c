@@ -1,4 +1,4 @@
-#include "mavalloc.h" 
+#include "mavalloc.h"
 #include "tinytest.h"
 #include <stdio.h>
 #include <string.h>
